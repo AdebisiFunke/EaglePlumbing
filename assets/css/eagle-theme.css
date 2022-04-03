@@ -1,4 +1,4 @@
-body{font-size: 1.2rem;}
+body{font-size: 12px;}
 h1,h2{font-weight: 700; color: #fff;}
 h4{margin: 3rem 0;}
 a{color: black;}
@@ -6,7 +6,7 @@ a:hover, a:focus{border: 2px dashed #fd8b29;}
 .navbar{background-color:#0275d8; }
    .logo,.nav-link {color: #fff!important;font-weight: 700;}
    .navbar-nav{ margin: 5rem;}
-   a.logo{color: #fff;text-decoration: none;font-weight: 700;font-size: 2rem;}
+   a.logo{color: #fff;text-decoration: none;font-weight: 700;font-size: 1.2rem;}
 .bg-orange{background-color:#fd8b29}
 h4{color:#0275d8;text-align:center}
 .h-3{height:1rem}
